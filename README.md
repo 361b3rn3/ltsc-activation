@@ -3,7 +3,7 @@
 
 <!-- NAME -->
 # NAME
-**Remove-UserProfile** 
+**Enable-LTSCProducts** 
 
 <!-- ABSTRACT -->
 ## ABSTRACT 
@@ -11,7 +11,7 @@ Delete Microsoft Windows user profile
 
 <!-- ABOUT THE PROJECT -->
 ## DESCRIPTION
-Delete Microsoft Windows user profile
+
 
 * What is it ?
     - Script to be run once in a while.
@@ -24,14 +24,10 @@ Delete Microsoft Windows user profile
     - Bets Tester
     
  * Why to use it ? 
-    - Clean the Operating Sytem with the unused user profile.
-    - Clean up on 32-bit & 64-bit
-    - Delete account not supported by native Windows tools
+   
     
  * When to use it ?
-    - Whenever it is necessary to make room on the computer.
-    - Remove a corrupted account
-    - For testing purpose
+  
     
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
@@ -93,9 +89,7 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## SEE ALSO
-* [Remove-LocalUser](https://learn.microsoft.com/en-gb/powershell/module/microsoft.powershell.localaccounts/remove-localuser)
-* [Delprof2 – User Profile Deletion Tool](https://helgeklein.com/free-tools/delprof2-user-profile-deletion-tool)
-* [User Profile Deletion Utility (Delprof.exe)](https://www.microsoft.com/en-us/download/details.aspx?id=5405) 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
