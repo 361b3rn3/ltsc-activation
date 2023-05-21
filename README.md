@@ -7,7 +7,7 @@
 
 <!-- ABSTRACT -->
 ## ABSTRACT 
-Delete Microsoft Windows user profile
+Activate the license for Office, Visio, Project LTSC.
 
 <!-- ABOUT THE PROJECT -->
 ## DESCRIPTION
@@ -72,7 +72,7 @@ Get information about
 | In progress | To be decided | To be decided |
 
 - [ ] Windows
-    - [x] Script
+    - [ ] Script
     - [ ] Function
     - [ ] Interface
    
@@ -104,6 +104,5 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## CONTACT
 
-:e-mail: RemoveWindowsUserProfile@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
